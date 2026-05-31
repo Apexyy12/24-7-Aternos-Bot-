@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "PlayRoyalUniverse.aternos.me",
+    "port": 41972,
     "version": "1.21.4",
     "try-creative": false
   },
